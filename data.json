@@ -1,0 +1,1433 @@
+{
+    "metadata": {
+        "metadata_conforms_to": "DCMI",
+        "abstract": "",
+        "access_rights": "",
+        "accrual_method": "",
+        "accrual_periodicity": "",
+        "accrual_policy": "",
+        "contributor": "Bajaj, Bahvesh",
+        "creator": "Bajaj, Bhavesh",
+        "currency": "USD",
+        "date_published": "2024-10-02",
+        "date_modified": "2024-10-02",
+        "description": "",
+        "format": "JSON",
+        "identifier": "tourism_impact_state_data",
+        "language": "EN-US",
+        "medium": "plaintext",
+        "provenance": "",
+        "publisher": "GitHub",
+        "sources": {
+            "AL": [
+                {
+                    "url": "https://cdn.sanity.io/files/cea57u1c/production/7dad35a078bcc8570bd5f0ee3872eda8baf3c9d3.pdf",
+                    "title": "2023 Alabama Tourism Economic Report",
+                    "subtitles": [
+                        "Alabama Tourism Department"
+                    ],
+                    "last_updated": "2024-04-10 10:17:58",
+                    "authors": ["Alabama Tourism Department"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Alabama Tourism Department"
+                    }
+                }
+            ],
+            "AK": [
+                {
+                    "url": "https://www.alaskatia.org/sites/default/files/2023-12/ATIA%20Alaska%20Tourism%20Impact%20Modeling%202022-2023%20-%20FINAL.pdf",
+                    "title": "Alaska 2022-2023 Tourism Impact Model",
+                    "subtitles": [],
+                    "last_updated": "2023-12-01 13:02:35",
+                    "authors": ["David Reichbach"],
+                    "publisher": {
+                        "type": "org",
+                        "name": "Alaska Travel Industry Association"
+                    }
+                }
+            ],
+            "AZ": [
+                {
+                    "url": "https://tourism.az.gov/wp-content/uploads/2024/08/Arizona_Travel_Impacts_2024-06-27-1.pdf",
+                    "title": "The Economic Impact of Travel in Arizona",
+                    "subtitles": [
+                        "Calendar Year 2023p",
+                        "State, Regional, & County Impacts"
+                    ],
+                    "last_updated": "2024-06-27 14:00:49",
+                    "authors": ["Dean Runyan Associates"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Arizona Office for Tourism"
+                    }
+                }
+            ],
+            "AR": [
+                {
+                    "url": "https://www.arkansas.com/industry-insider/research/economic-impact-report",
+                    "title": "Economic Impact of Tourism | Arkansas.com",
+                    "subtitles": [],
+                    "last_updated": "2024",
+                    "authors": ["Symphony Tourism Economics"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Arkansas Department of Parks, Heritage, and Tourism"
+                    }
+                }
+            ],
+            "CA": [
+                {
+                    "url": "https://industry.visitcalifornia.com/-/media/industry-site/pdfs/research/2024/the-economic-impact-of-travel-2023.pdf",
+                    "title": "The Economic Impact of Travel in California",
+                    "subtitles": [
+                        "2023p (Calendar Year)"
+                    ],
+                    "last_updated": "2024-04-23 09:24:00",
+                    "authors": ["Dean Runyan Associates"],
+                    "publisher": {
+                        "type": "org",
+                        "name": "Visit California"
+                    }
+                }
+            ],
+            "CO": [
+                {
+                    "url": "https://drive.google.com/file/d/1-JV6YfMyRW4awSd_WaQCHEFo1A-w8Cbs/view",
+                    "title": "The Economic Impact of Travel in Colorado",
+                    "subtitles": [
+                        "2023p",
+                        "State, Regional, & County Impacts"
+                    ],
+                    "last_updated": "2024-08-01 15:18:53",
+                    "authors": ["Dean Runyan Associates"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Colorado Tourism Office"
+                    }
+                }
+            ],
+            "CT": [
+                {
+                    "url": "https://portal.ct.gov/-/media/decd/tourism/econimpactstudies/connecticut-tourism-economic-impact---2023.pdf",
+                    "title": "ECONOMIC IMPACT OF VISITORS IN CONNECTICUT 2023",
+                    "subtitles": [
+                        "May 2024"
+                    ],
+                    "last_updated": "2024-06-24 15:58:16",
+                    "authors": ["Tourism Economics"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Connecticut Tourism Office"
+                    }
+                }
+            ],
+            "DE": [
+                {
+                    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/delaware/Value_of_Tourism_2022_bc573d08-aa9c-4094-8cd2-f6f70e789e26.pdf",
+                    "title": "The Value of Tourism 2022",
+                    "subtitles": [
+                        "VisitDelaware.com"
+                    ],
+                    "last_updated": "2024-05-06 16:29:56",
+                    "authors": ["Delaware Tourism Office"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Delaware Tourism Office"
+                    }
+                }
+            ],
+            "FL": [
+                {
+                    "url": "https://visitflorida.app.box.com/s/1n07pedhhec65xntd11eq36gr44l2pvv",
+                    "title": "TRAVEL & TOURISM IN FLORIDA CONTINUES TO OUTSHINE IN THE WAKE OF THE COVID-19 PANDEMIC",
+                    "subtitles": [
+                        "The 2022 Economic & Fiscal Impact of Tourism in Florida"
+                    ],
+                    "last_updated": "2024-01-12 10:38:32",
+                    "authors": ["Rockport Analytics"],
+                    "publisher": {
+                        "type": "org",
+                        "name": "Visit Florida"
+                    }
+                }
+            ],
+            "GA": [
+                {
+                    "url": "https://industry.exploregeorgia.org/sites/default/files/unrestricted-files/GA%20Tourism%20by%20the%20numbers%202023%20FINAL.pdf",
+                    "title": "GEORGIA TOURISM BY THE NUMBERS: 2023",
+                    "subtitles": [
+                        "Breaking Records Once Again"
+                    ],
+                    "last_updated": "2024-09-04 16:03:19",
+                    "authors": ["Explore Georgia"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Georgia Department of Economic Development"
+                    }
+                }
+            ],
+            "HI": [
+                {
+                    "url": "https://dbedt.hawaii.gov/blog/24-05/",
+                    "title": "December 2023 Marked the Fifth Consecutive Month with Declining Visitor Expenditures",
+                    "subtitles": [],
+                    "last_updated": "2024-01-30",
+                    "authors": ["State of Hawaii Department of Business, Economic Development & Tourism"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "State of Hawaii Department of Business, Economic Development & Tourism"
+                    }
+                }
+            ],
+            "ID": [
+                {
+                    "url": "https://commerce.idaho.gov/content/uploads/2023/02/V8-ITC-Dean-Runyan-Report-State-2023.pdf",
+                    "title": "IDAHO TOURISM ECONOMIC IMPACT",
+                    "subtitles": [
+                        "Tourism is the state's 3rd largest industry, behind agriculture and technology"
+                    ],
+                    "last_updated": "2023-01-30 12:25:45",
+                    "authors": ["Dean Runyan Associates"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Idaho Commerce"
+                    }
+                }
+            ],
+            "IL": [
+                {
+                    "url": "https://www.enjoyillinois.com/assets/Files-PDFs/Illinois-Tourism-Economic-Impact-2024.pdf",
+                    "title": "ECONOMIC IMPACT OF VISITORS IN ILLINOIS 2023",
+                    "subtitles": [
+                        "July 2024"
+                    ],
+                    "last_updated": "2024-07-01 12:04:01",
+                    "authors": ["Michael Mariano"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Illinois Office of Tourism"
+                    }
+                }
+            ],
+            "IN": [
+                {
+                    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/indiana/2022_Economic_Impact_IDDC_3__7d9dac8c-441d-40e7-ad04-c429a84ff3d3.pdf",
+                    "title": "2022 Indiana Tourism Economic Contribution by the Numbers",
+                    "subtitles": [],
+                    "last_updated": "2024-01-31 11:23:40",
+                    "authors": ["Indiana Destination Development Corporation"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Indiana Destination Development Corporation"
+                    }
+                }
+            ],
+            "IA": [
+                {
+                    "url": "https://www.legis.iowa.gov/docs/publications/DF/1444381.pdf",
+                    "title": "Iowa Tourism Office | 2023 Annual Report",
+                    "subtitles": [],
+                    "last_updated": "2024-01-12 15:39:32",
+                    "authors": ["Iowa Tourism Office"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Iowa Tourism Office"
+                    }
+                }
+            ],
+            "KS": [
+                {
+                    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/kansas/The_Economic_Impact_of_Travel_in_Kansas_2023_30412bce-4bc9-4420-8c49-95f388040b60.pdf",
+                    "title": "Economic Impact of Tourism in Kansas - 2023",
+                    "subtitles": [
+                        "August 2024"
+                    ],
+                    "last_updated": "2024-08-12 16:02:03",
+                    "authors": ["Michael Mariano"],
+                    "publisher": {
+                        "type": "org",
+                        "name": "Kansas Tourism"
+                    }
+                }
+            ],
+            "KY": [
+                {
+                    "url": "https://www.kentuckytourism.com/media/docs/default-source/default-document-library/kentucky-tourism-economic-impact-2023---final.pdf?sfvrsn=cab960e3_0",
+                    "title": "ECONOMIC IMPACT OF VISITORS IN KENTUCKY 2023",
+                    "subtitles": [
+                        "March 2024"
+                    ],
+                    "last_updated": "2024-05-02 16:09:11",
+                    "authors": ["Michael Mariano"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Kentucky Department of Tourism"
+                    }
+                }
+            ],
+            "LA": [
+                {
+                    "url": "https://www.explorelouisiana.com/sites/default/files/2024-07/2023%20Louisiana%20Tourism%20Economic%20Impact%20REV.pdf",
+                    "title": "ECONOMIC IMPACT OF VISITORS IN LOUISIANA 2023",
+                    "subtitles": [
+                        "May 2024"
+                    ],
+                    "last_updated": "2024-07-11 17:11:34",
+                    "authors": ["Tourism Economics"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Louisiana Office of Tourism"
+                    }
+                }
+            ],
+            "ME": [
+                {
+                    "url": "https://motpartners.com/wp-content/uploads/2024/05/MOT_GovCon_HighlightSheet_2023_Printed-Paper_FNL-0430.pdf",
+                    "title": "2023 Maine Office of Tourism Highlights",
+                    "subtitles": [],
+                    "last_updated": "2024-04-30 17:42:26",
+                    "authors": ["Maine Office of Tourism"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Maine Office of Tourism"
+                    }
+                }
+            ],
+            "MD": [
+                {
+                    "url": "https://www.visitmaryland.org/sites/default/files/2024-09/Economic-Impact-of-Tourism-in-Maryland-%20State-2023-CLIENT.pdf",
+                    "title": "ECONOMIC IMPACT OF TOURISM IN MARYLAND 2023",
+                    "subtitles": [
+                        "July 2024"
+                    ],
+                    "last_updated": "2024-08-21 11:18:13",
+                    "authors": ["Tourism Economics"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Maryland Office of Tourism"
+                    }
+                }
+            ],
+            "MA": [
+                {
+                    "url": "https://malegislature.gov/Bills/193/SD3247.pdf",
+                    "title": "2023 Annual Report",
+                    "subtitles": [],
+                    "last_updated": "2024-05-21 10:12:54",
+                    "authors": ["Massachusetts Office of Travel & Tourism"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Massachusetts Office of Travel & Tourism"
+                    }
+                }
+            ],
+            "MI": [
+                {
+                    "url": "https://medc.app.box.com/s/wmrwsq7qj5se086yl64q16m55mog9zt8",
+                    "title": "Economic Impact of Tourism in Michigan - 2023",
+                    "subtitles": [
+                        "July 2024"
+                    ],
+                    "last_updated": "2024-08-08 00:02:00",
+                    "authors": ["Tourism Economics"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Michigan Office of Tourism"
+                    }
+                }
+            ],
+            "MN": [
+                {
+                    "url": "https://mn.gov/tourism-industry/assets/Economic%20Impact%20of%20Visitor%20Spending%20in%20Minnesota%20-%202023%20-%20CLIENT_tcm1135-640515.pdf",
+                    "title": "THE MINNESOTA VISITOR ECONOMY 2023",
+                    "subtitles": [
+                        "July 2024"
+                    ],
+                    "last_updated": "2024-07-26 12:28:16",
+                    "authors": ["Tourism Economics"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Explore Minnesota"
+                    }
+                }
+            ],
+            "MS": [
+                {
+                    "url": "https://visitmississippi.org/wp-content/uploads/2023/04/23-0025-Tourism-Economic-Report-FY22-FINAL-WEB.pdf",
+                    "title": "Tourism Economic Contribution Report",
+                    "subtitles": [
+                        "Fiscal Year 2022"
+                    ],
+                    "last_updated": "2023-04-14 09:42:03",
+                    "authors": ["Mississippi Development Authority"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Mississippi Development Authority"
+                    }
+                }
+            ],
+            "MO": [
+                {
+                    "url": "https://mdt-visitmo-cdn.s3.us-east-2.amazonaws.com/wp-content/uploads/sites/2/2024/01/MDT_2023_AnnualReport_WebReady.pdf",
+                    "title": "FY23 REPORT FOR THE MISSOURI DIVISION OF TOURISM",
+                    "subtitles": [
+                        "The Missouri Division of Tourism promotes the state's diverse tourism industry through a comprehensive strategic marketing plan that includes paid, earned, shared and owned media outreach that engages consumers across a variety of platforms and channels. In addition, MDT helps local communities maximize their marketing dollars through its Cooperative Marketing Program and provides support for the motion media industry through the Missouri Film Office."
+                    ],
+                    "last_updated": "2024-01-29 12:00:23",
+                    "authors": ["Missouri Division of Tourism"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Missouri Division of Tourism"
+                    }
+                }
+            ],
+            "MT": [
+                {
+                    "url": "https://scholarworks.umt.edu/cgi/viewcontent.cgi?article=1459&context=itrr_pubs",
+                    "title": "The Montana Travel Industry - 2023 Summary",
+                    "subtitles": [],
+                    "last_updated": "2024-04-10 13:12:24",
+                    "authors": ["Melissa Weddell"],
+                    "publisher": {
+                        "type": "edu",
+                        "name": "ScholarWorks at University of Montana"
+                    }
+                }
+            ],
+            "NE": [
+                {
+                    "url": "https://visitnebraska.com/sites/default/files/2024-09/Nebraska_Final_2022p.pdf",
+                    "title": "The Economic Impact of Travel in Nebraska",
+                    "subtitles": [
+                        "2022p"
+                    ],
+                    "last_updated": "2023-10-19 12:09:51",
+                    "authors": ["Dean Runyan Associates"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Nebraska Tourism Commission"
+                    }
+                }
+            ],
+            "NV": [
+                {
+                    "url": "https://travelnevada.biz/wp-content/uploads/048358_FY24-Annual-Report_Digital_FIN-Hires.pdf",
+                    "title": "Annual Report FY23",
+                    "subtitles": [],
+                    "last_updated": "2024-02-29 11:38:52",
+                    "authors": ["Travel Nevada"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Travel Nevada"
+                    }
+                }
+            ],
+            "NH": [
+                {
+                    "url": "https://www.travelstats.com/qimpacts/newhampshire",
+                    "title": "New Hampshire State",
+                    "subtitles": [],
+                    "last_updated": "2024",
+                    "authors": ["Dean Runyan Associates"],
+                    "publisher": {
+                        "type": "org",
+                        "name": "Dean Runyan Associates"
+                    }
+                }
+            ],
+            "NJ": [
+                {
+                    "url": "https://visitnj.org/sites/default/files/2024-05/2023_Tourism_Economic_Impact_Study.pdf",
+                    "title": "THE NEW JERSEY VISITOR ECONOMY 2023",
+                    "subtitles": [
+                        "March 2024"
+                    ],
+                    "last_updated": "2024-05-06 17:00:44",
+                    "authors": ["Tourism Economics"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "VisitNJ"
+                    }
+                }
+            ],
+            "NM": [
+                {
+                    "url": "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/newmexico/Economic_Impact_of_Tourism_in_New_Mexico_2023_7d36f19d-9a9b-4853-b200-6374b6beb6d8.pdf",
+                    "title": "Economic Impact of Tourism in New Mexico",
+                    "subtitles": [
+                        "2023"
+                    ],
+                    "last_updated": "2024-08-16 18:36:15",
+                    "authors": ["Michael Mariano"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "New Mexico Tourism Department"
+                    }
+                }
+            ],
+            "NY": [
+                {
+                    "url": "https://esd.ny.gov/sites/default/files/media/document/Central-New-York-New-York-Tourism-Economic-Impact-2023.pdf",
+                    "title": "ECONOMIC IMPACT OF VISITORS IN NEW YORK 2023",
+                    "subtitles": [
+                        "Central New York Focus",
+                        "August 2024"
+                    ],
+                    "last_updated": "2024-08-28 10:25:03",
+                    "authors": ["Michael Mariano"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Empire State Development (ESD)"
+                    }
+                }
+            ],
+            "NC": [
+                {
+                    "url": "https://partners.visitnc.com/contents/sdownload/74549/file/NC-TSA-2022.pdf",
+                    "title": "ECONOMIC IMPACT OF VISITORS IN NORTH CAROLINA 2022",
+                    "subtitles": [
+                        "January 2024"
+                    ],
+                    "last_updated": "2024-07-09 11:53:39",
+                    "authors": ["Michael Mariano"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Visit North Carolina"
+                    }
+                }
+            ],
+            "ND": [
+                {
+                    "url": "https://www.medialibrary.nd.gov/assetbank-nd/assetfile/138899.pdf",
+                    "title": "Annual Report 2023",
+                    "subtitles": [
+                        "North Dakota Department of Commerce Tourism and Marketing Division Report on Marketing North Dakota and the Travel and Tourism Industry"
+                    ],
+                    "last_updated": "2024-04-01 13:59:35",
+                    "authors": ["North Dakota Department of Commerce Tourism and Marketing Division"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "North Dakota Department of Commerce Tourism and Marketing Division"
+                    }
+                }
+            ],
+            "OH": [
+                {
+                    "url": "https://development.ohio.gov/home/news-and-events/all-news/2024-0521-ohio-celebrates-tourism-day",
+                    "title": "Ohio Celebrates Tourism Day",
+                    "subtitles": [],
+                    "last_updated": "2024-05-21",
+                    "authors": ["Mason Waldvogel"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Ohio Department of Development Communications"
+                    }
+                }
+            ],
+            "OK": [
+                {
+                    "url": "https://ds8hbldo2z4gr.cloudfront.net/wp-content/uploads/2024/01/Oklahoma-Economic-Impact-Report-2022.pdf",
+                    "title": "The Economic Impact of Travel in Oklahoma",
+                    "subtitles": [
+                        "2022",
+                        "State and County Impacts"
+                    ],
+                    "last_updated": "2023-10-31 20:28:56",
+                    "authors": ["Dean Runyan Associates"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Oklahoma Tourism and Recreation Department"
+                    }
+                }
+            ],
+            "OR": [
+                {
+                    "url": "https://industry.traveloregon.com/wp-content/uploads/2024/08/Final-report-with-updated-clackamas-and-WV-numbers.pdf",
+                    "title": "The Economic Impact of Travel in Oregon",
+                    "subtitles": [
+                        "Calendar Year 2023 Preliminary"
+                    ],
+                    "last_updated": "2024-08-19 17:25:14",
+                    "authors": ["Dean Runyan Associates"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Travel Oregon"
+                    }
+                }
+            ],
+            "PA": [
+                {
+                    "url": "https://www.visitpa.com/sites/default/files/2024-03/2022_economic_impact_of_tourism_in_pennsylvania_final.pdf",
+                    "title": "Economic Impact of Travel and Tourism in Pennsylvania - 2022",
+                    "subtitles": [
+                        "February 2024"
+                    ],
+                    "last_updated": "2024-03-12 12:38:13",
+                    "authors": ["Tourism Economics"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Pennsylvania Office of Tourism"
+                    }
+                }
+            ],
+            "RI": [
+                {
+                    "url": "https://acrobat.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3Aa24b3f04-beac-3b52-8585-7e590373a416",
+                    "title": "THE ECONOMIC IMPACT OF VISITORS IN RHODE ISLAND 2022",
+                    "subtitles": [
+                        "June 2023"
+                    ],
+                    "last_updated": "2023-11-07 14:43:43",
+                    "authors": ["Tourism Economics"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Rhode Island Commerce Corporation"
+                    }
+                }
+            ],
+            "SC": [
+                {
+                    "url": "https://scprt.widen.net/content/awzzz293zh/pdf/2022_SouthCarolina_Redesign_Final_v4.pdf?u=sgt8lu",
+                    "title": "South Carolina Tourism",
+                    "subtitles": [
+                        "2022 ECONOMIC AND FISCAL IMPACT ANALYSIS"
+                    ],
+                    "last_updated": "2024-08-28 09:43:35",
+                    "authors": ["Beacon Economics"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Discover South Carolina"
+                    }
+                }
+            ],
+            "SD": [
+                {
+                    "url": "https://sdvisit.com/sites/default/files/2024-01/23EcoImp-Tourism-Economics.pdf",
+                    "title": "Economic Impact of Tourism in South Dakota - 2023",
+                    "subtitles": [
+                        "December 2023"
+                    ],
+                    "last_updated": "2024-01-04 10:32:26",
+                    "authors": ["Michael Mariano"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "South Dakota Department of Tourism"
+                    }
+                }
+            ],
+            "TN": [
+                {
+                    "url": "https://industry.tnvacation.com/sites/industry/files/component/pod/Statewide%20Full%20Report%20-%20Tennessee%20Tourism%20Economic%20Impact%20-%202023.pdf",
+                    "title": "ECONOMIC IMPACT OF VISITORS IN TENNESSEE 2023",
+                    "subtitles": [
+                        "July 2024"
+                    ],
+                    "last_updated": "2024-07-21 19:19:15",
+                    "authors": ["Michael Mariano"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Tennessee Department of Tourist Development"
+                    }
+                }
+            ],
+            "TX": [
+                {
+                    "url": "https://gov.texas.gov/uploads/files/travel-texas/2023EconomicImpact.pdf",
+                    "title": "ECONOMIC IMPACT",
+                    "subtitles": [],
+                    "last_updated": "2024-05-14 12:57:55",
+                    "authors": ["Travel Texas"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "Travel Texas"
+                    }
+                }
+            ],
+            "UT": [
+                {
+                    "url": "https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/2024/09/TT-Trifold-Sep2024.pdf",
+                    "title": "The State of Utah's Travel and Tourism Industry, 2024 (Tri-Fold Brochure)",
+                    "subtitles": [
+                        "September 2024"
+                    ],
+                    "last_updated": "2024-09-18 13:54:16",
+                    "authors": ["Jennifer Leaver"],
+                    "publisher": {
+                        "type": "edu",
+                        "name": "Kem C. Gardner Policy Institute, David Eccles School of Business, University of Utah"
+                    }
+                } 
+            ],
+            "VT": [
+                {
+                    "url": "https://accd.vermont.gov/tourism/research",
+                    "title": "Tourism Research",
+                    "subtitles": [
+                        "Tourism in Vermont is a $3 billion industry that supports over 30,000 jobs (over 10% of Vermont's workforce)."
+                    ],
+                    "last_updated": "2024",
+                    "authors": ["State of Vermont Agency of Commerce and Community Development"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "State of Vermont Agency of Commerce and Community Development"
+                    }
+                }
+            ],
+            "VA": [
+                {
+                    "url": "https://www.vatc.org/wp-content/uploads/2024/08/Virginia-Tourism-Economic-Impact-2023.pdf",
+                    "title": "ECONOMIC IMPACT OF VISITORS IN VIRGINIA 2023",
+                    "subtitles": [
+                        "July 2024"
+                    ],
+                    "last_updated": "2024-07-12",
+                    "authors": ["Michael Mariano"],
+                    "publisher": {
+                        "type": "org",
+                        "name": "Tourism Economics"
+                    }
+                }
+            ],
+            "WA": [
+                {
+                    "url": "https://industry.stateofwatourism.com/2023-state-tourism-statistics/",
+                    "title": "2023 State Tourism Statistics Show Uneven Recovery, Opportunity to Drive Additional Revenue",
+                    "subtitles": [
+                        "Annual Impacts Report Released as National Travel & Tourism Week Begins"
+                    ],
+                    "last_updated": "2024-05-20",
+                    "authors": ["State of Washington Tourism"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "State of Washington Tourism"
+                    }
+                }
+            ],
+            "WV": [
+                {
+                    "url": "https://wvtourism.com/wp-content/uploads/2024/09/2023-Statewide-Economic-Impact-of-Tourism-in-WV.pdf",
+                    "title": "Economic Impact of Tourism in West Virginia",
+                    "subtitles": [
+                        "2023"
+                    ],
+                    "last_updated": "2024-09-11 09:52:02",
+                    "authors": ["Michael Mariano"],
+                    "publisher": {
+                        "type": "gov",
+                        "name": "West Virginia Department of Tourism"
+                    }
+                }
+            ],
+            "WI": {
+                "url": "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/wisconsin/Economic_Impact_of_Tourism_in_Wisconsin_2023_06_06_Final_8df23d7e-d61a-4e4c-883c-524b865cd647.pdf",
+                "title": "The Wisconsin Visitor Industry - 2023",
+                "subtitles": [
+                    "May 2024"
+                ],
+                "last_updated": "2024-06-06 10:14:08",
+                "authors": ["Michael Mariano"],
+                "publisher": {
+                    "type": "gov",
+                    "name": "Wisconsin Department of Tourism"
+                }
+            },
+            "WY": {
+                "url": "https://drive.google.com/file/d/1IQ53kiaGIkSq_u_41pZVUdQYV0k5VzzO/view",
+                "title": "The Economic Impact of Travel in Wyoming",
+                "subtitles": [
+                    "Calendar Year 2023"
+                ],
+                "last_updated": "2024-05-08 14:59:12",
+                "authors": ["Dean Runyan Associates"],
+                "publisher": {
+                    "type": "gov",
+                    "name": "Wyoming Office of Tourism"
+                }
+            }
+        },
+        "title": ""
+    },
+    "states_data": [
+        {
+            "state_name": "Alabama",
+            "state_abbreviation": "AL",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 23.5,
+                    "growth_from_previous_year_percent": 4.4
+                },
+                "jobs_generated_thousands": 245.5,
+                "taxes_generated_millions": 1400.0,
+                "percent_gdp": 8.3,
+                "tourism_total_economic_impact_billions": 7.7
+            }
+        },
+        {
+            "state_name": "Alaska",
+            "state_abbreviation": "AK",
+            "state_data": {
+                "timeframe": ["May 2022","April 2023"],
+                "visitor_spending": {
+                    "amount_billions": 3.9,
+                    "growth_from_previous_year_percent": 26.2
+                },
+                "jobs_generated_thousands": 56.7,
+                "tourism_total_economic_impact_billions": 5.6
+            }
+        },
+        {
+            "state_name": "Arizona",
+            "state_abbreviation": "AZ",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 29.3,
+                    "growth_from_previous_year_percent": 4.5
+                },
+                "jobs_generated_thousands": 9.0,
+                "taxes_generated_millions": 2384.0,
+                "percent_gdp": 2.4
+            }
+        },
+        {
+            "state_name": "Arkansas",
+            "state_abbreviation": "AR",
+            "state_data": {
+                "timeframe": "2022",
+                "visitor_spending": {
+                    "amount_billions": 15.7,
+                    "growth_from_previous_year_percent": 12.9
+                },
+                "jobs_generated_thousands": 97.8,
+                "taxes_generated_millions": 1000.0
+            }
+        },
+        {
+            "state_name": "California",
+            "state_abbreviation": "CA",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 150.4, 
+                    "growth_from_previous_year_percent": 5.6
+                },
+                "jobs_generated_thousands": 64.9,
+                "taxes_generated_millions": 12700.0,
+                "percent_gdp": 2.4
+            }
+        },
+        {
+            "state_name": "Colorado",
+            "state_abbreviation": "CO",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 28.2, 
+                    "growth_from_previous_year_percent": 3.9
+                },
+                "jobs_generated_thousands": 9.5,
+                "taxes_generated_millions": 1800.0
+            }
+        },
+        {
+            "state_name": "Connecticut",
+            "state_abbreviation": "CT",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 11.0,
+                    "growth_from_previous_year_percent": 5.6
+                },
+                "jobs_generated_thousands": 124.4,
+                "taxes_generated_millions": 1200.0,
+                "tourism_total_economic_impact_billions": 18.5
+            }
+        },
+        {
+            "state_name": "Delaware",
+            "state_abbreviation": "DE",
+            "state_data": {
+                "timeframe": "2022",
+                "visitor_spending": {
+                    "amount_billions": 6.5,
+                    "growth_from_previous_year_percent": 11.0
+                },
+                "jobs_generated_thousands": 52.4,
+                "tourism_total_economic_impact_billions": 4.5
+            }
+        },
+        {
+            "state_name": "Florida",
+            "state_abbreviation": "FL",
+            "state_data": {
+                "timeframe": "2022",
+                "visitor_spending": {
+                    "amount_billions": 124.9,
+                    "growth_from_previous_year_percent": 19.0
+                },
+                "jobs_generated_thousands": 420.0,
+                "taxes_generated_millions": 35200.0,
+                "percent_gdp": 9.0,
+                "tourism_total_economic_impact_billions": 121.5
+            }
+        },
+        {
+            "state_name": "Georgia",
+            "state_abbreviation": "GA",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 43.6,
+                    "growth_from_previous_year_percent": 9.5
+                },
+                "jobs_generated_thousands": 463.5,
+                "taxes_generated_millions": 5000.0,
+                "tourism_total_economic_impact_billions": 79.7
+            }
+        },
+        {
+            "state_name": "Hawaii",
+            "state_abbreviation": "HI",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 20.8,
+                    "growth_from_previous_year_percent": 5.5
+                }
+            }
+        },
+        {
+            "state_name": "Idaho",
+            "state_abbreviation": "ID",
+            "state_data": {
+                "timeframe": "2021",
+                "visitor_spending": {
+                    "amount_billions": 4.8,
+                    "growth_from_previous_year_percent": 37.1
+                },
+                "jobs_generated_thousands": 49.8,
+                "taxes_generated_millions": 376
+            }
+        },
+        {
+            "state_name": "Illinois",
+            "state_abbreviation": "IL",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 47.2,
+                    "growth_from_previous_year_percent": 6.5
+                },
+                "jobs_generated_thousands": 448.3,
+                "taxes_generated_millions": 6600.0,
+                "tourism_total_economic_impact_billions": 82.6
+            }
+        },
+        {
+            "state_name": "Indiana",
+            "state_abbreviation": "IN",
+            "state_data": {
+                "timeframe": "2022",
+                "visitor_spending": {
+                    "amount_billions": 15.1,
+                    "growth_from_previous_year_percent": 16.0
+                },
+                "jobs_generated_thousands": 200.0,
+                "taxes_generated_millions": 2800.0,
+                "tourism_total_economic_impact_billions": 9.9
+            }
+        },
+        {
+            "state_name": "Iowa",
+            "state_abbreviation": "IA",
+            "state_data": {
+                "timeframe": "2022",
+                "visitor_spending": {
+                    "amount_billions": 6.9
+                },
+                "jobs_generated_thousands": 68.0,
+                "taxes_generated_millions": 1100.0,
+                "tourism_total_economic_impact_billions": 10.4
+            }
+        },
+        {
+            "state_name": "Kansas",
+            "state_abbreviation": "KS",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 8.0,
+                    "growth_from_previous_year_percent": 4.6
+                },
+                "jobs_generated_thousands": 90.9,
+                "taxes_generated_millions": 823.0,
+                "tourism_total_economic_impact_billions": 13.2 
+            }
+        },
+        {
+            "state_name": "Kentucky",
+            "state_abbreviation": "KY",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 9.7,
+                    "growth_from_previous_year_percent": 9.3
+                },
+                "jobs_generated_thousands": 95.2,
+                "taxes_generated_millions": 1000.0,
+                "tourism_total_economic_impact_billions": 13.8
+            }
+        },
+        {
+            "state_name": "Louisiana",
+            "state_abbreviation": "LA",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 16.2,
+                    "growth_from_previous_year_percent": 3.7
+                },
+                "jobs_generated_thousands": 160.1,
+                "taxes_generated_millions": 1900.0,
+                "tourism_total_economic_impact_billions": 23.4
+            }
+        },
+        {
+            "state_name": "Maine",
+            "state_abbreviation": "ME",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 9.0,
+                    "growth_from_previous_year_percent": 4.9
+                },
+                "jobs_generated_thousands": 131.0,
+                "taxes_generated_millions": 1431.4,
+                "tourism_total_economic_impact_billions": 16.4
+            }
+        },
+        {
+            "state_name": "Maryland",
+            "state_abbreviation": "MD",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 20.5,
+                    "growth_from_previous_year_percent": 5.7
+                },
+                "jobs_generated_thousands": 131.0,
+                "taxes_generated_millions": 2400.0,
+                "tourism_total_economic_impact_billions": 31.4
+            }
+        },
+        {
+            "state_name": "Massachusetts",
+            "state_abbreviation": "MA",
+            "state_data": {
+                "timeframe": "2022",
+                "visitor_spending": {
+                    "amount_billions": 24.2,
+                    "growth_from_previous_year_percent": 46.8
+                },
+                "jobs_generated_thousands": 131.2,
+                "taxes_generated_millions": 1900.0
+            }
+        },
+        {
+            "state_name": "Michigan",
+            "state_abbreviation": "MI",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 29.3,
+                    "growth_from_previous_year_percent": 7.2
+                },
+                "jobs_generated_thousands": 346.0,
+                "taxes_generated_millions": 3500.0,
+                "tourism_total_economic_impact_billions": 53.2
+            }
+        },
+        {
+            "state_name": "Minnesota",
+            "state_abbreviation": "MN",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 14.1,
+                    "growth_from_previous_year_percent": 8.0
+                },
+                "jobs_generated_thousands": 180.5,
+                "taxes_generated_millions": 2300.0,
+                "tourism_total_economic_impact_billions": 24.2
+            }
+        },
+        {
+            "state_name": "Mississippi",
+            "state_abbreviation": "MS",
+            "state_data": {
+                "timeframe": "FY2022",
+                "visitor_spending": {
+                    "amount_billions": 7.1,
+                    "growth_from_previous_year_percent": 5.2
+                },
+                "jobs_generated_thousands": 104.6,
+                "taxes_generated_millions": 749.0
+            }
+        },
+        {
+            "state_name": "Missouri",
+            "state_abbreviation": "MO",
+            "state_data": {
+                "timeframe": "FY2023",
+                "visitor_spending": {
+                    "amount_billions": 17.6
+                },
+                "jobs_generated_thousands": 301.5,
+                "taxes_generated_millions": 611.0,
+                "tourism_total_economic_impact_billions": 19.9
+            }
+        },
+        {
+            "state_name": "Montana",
+            "state_abbreviation": "MT",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 5.5
+                },
+                "jobs_generated_thousands": 48.3,
+                "taxes_generated_millions": 414.0,
+                "percent_gdp": 4.3,
+                "tourism_total_economic_impact_billions": 4.8
+            }
+        },
+        {
+            "state_name": "Nebraska",
+            "state_abbreviation": "NE",
+            "state_data": {
+                "timeframe": "2022",
+                "visitor_spending": {
+                    "amount_billions": 4.3,
+                    "growth_from_previous_year_percent": 19.3
+                },
+                "jobs_generated_thousands": 2.6,
+                "taxes_generated_millions": 295.0
+            }
+        },
+        {
+            "state_name": "Nevada",
+            "state_abbreviation": "NV",
+            "state_data": {
+                "timeframe": "2022",
+                "visitor_spending": {
+                    "amount_billions": 49.0,
+                    "growth_from_previous_year_percent": 10.5
+                },
+                "jobs_generated_thousands": 412.5,
+                "taxes_generated_millions": 5500.0,
+                "tourism_total_economic_impact_billions": 22.0
+            }
+        },
+        {
+            "state_name": "New Hampshire",
+            "state_abbreviation": "NH",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 7.2,
+                    "growth_from_previous_year_percent": 4.3
+                },
+                "jobs_generated_thousands": 26.7,
+                "taxes_generated_millions": 314.3
+            }
+        },
+        {
+            "state_name": "New Jersey",
+            "state_abbreviation": "NJ",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 49.1,
+                    "growth_from_previous_year_percent": 8.1
+                },
+                "jobs_generated_thousands": 501.0,
+                "taxes_generated_millions": 5200.0,
+                "tourism_total_economic_impact_billions": 78.3
+            }
+        },
+        {
+            "state_name": "New Mexico",
+            "state_abbreviation": "NM",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 8.6,
+                    "growth_from_previous_year_percent": 3.8
+                },
+                "jobs_generated_thousands": 93.2,
+                "taxes_generated_millions": 810.7,
+                "tourism_total_economic_impact_billions": 11.6
+            }
+        },
+        {
+            "state_name": "New York",
+            "state_abbreviation": "NY",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 88.0,
+                    "growth_from_previous_year_percent": 12.0
+                },
+                "jobs_generated_thousands": 721.5,
+                "taxes_generated_millions": 11000.0,
+                "tourism_total_economic_impact_billions": 137.0
+            }
+        },
+        {
+            "state_name": "North Carolina",
+            "state_abbreviation": "NC",
+            "state_data": {
+                "timeframe": "2022",
+                "visitor_spending": {
+                    "amount_billions": 37.9,
+                    "growth_from_previous_year_percent": 14.0
+                },
+                "jobs_generated_thousands": 414.7,
+                "taxes_generated_millions": 4600.0,
+                "tourism_total_economic_impact_billions": 55.2
+            }
+        },
+        {
+            "state_name": "North Dakota",
+            "state_abbreviation": "ND",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 3.55
+                },
+                "jobs_generated_thousands": 43.9,
+                "tourism_total_economic_impact_billions": 3.55
+            }
+        },
+        {
+            "state_name": "Ohio",
+            "state_abbreviation": "OH",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 56.0
+                },
+                "jobs_generated_thousands": 436.0,
+                "taxes_generated_millions": 4600.0
+            }
+        },
+        {
+            "state_name": "Oklahoma",
+            "state_abbreviation": "OK",
+            "state_data": {
+                "timeframe": "2022",
+                "visitor_spending": {
+                    "amount_billions": 11.8,
+                    "growth_from_previous_year_percent": 12.3
+                },
+                "jobs_generated_thousands": 5.2,
+                "taxes_generated_millions": 833.0,
+                "percent_gdp": 1.8
+            }
+        },
+        {
+            "state_name": "Oregon",
+            "state_abbreviation": "OR",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 14.1,
+                    "growth_from_previous_year_percent": 0.6
+                },
+                "jobs_generated_thousands": 2.2,
+                "taxes_generated_millions": 50.0,
+                "percent_gdp": 2.0
+            }
+        },
+        {
+            "state_name": "Pennsylvania",
+            "state_abbreviation": "PA",
+            "state_data": {
+                "timeframe": "2022",
+                "visitor_spending": {
+                    "amount_billions": 45.4,
+                    "growth_from_previous_year_percent": 19.3
+                },
+                "jobs_generated_thousands": 486.9,
+                "taxes_generated_millions": 4700.0,
+                "tourism_total_economic_impact_billions": 76.7
+            }
+        },
+        {
+            "state_name": "Rhode Island",
+            "state_abbreviation": "RI",
+            "state_data": {
+                "timeframe": "2022",
+                "visitor_spending": {
+                    "amount_billions": 5.3,
+                    "growth_from_previous_year_percent": 17.0
+                },
+                "jobs_generated_thousands": 84.4,
+                "taxes_generated_millions": 903.0,
+                "tourism_total_economic_impact_billions": 7.9
+            }
+        },
+        {
+            "state_name": "South Carolina",
+            "state_abbreviation": "SC",
+            "state_data": {
+                "timeframe": "2022",
+                "visitor_spending": {
+                    "amount_billions": 27.9,
+                    "growth_from_previous_year_percent": 12.0
+                },
+                "jobs_generated_thousands": 257.0,
+                "taxes_generated_millions": 2600.0,
+                "tourism_total_economic_impact_billions": 20.9
+            }
+        },
+        {
+            "state_name": "South Dakota",
+            "state_abbreviation": "SD",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 5.0,
+                    "growth_from_previous_year_percent": 4.9
+                },
+                "jobs_generated_thousands": 57.8,
+                "taxes_generated_millions": 384.0,
+                "tourism_total_economic_impact_billions": 7.9
+            }
+        },
+        {
+            "state_name": "Tennessee",
+            "state_abbreviation": "TN",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 30.6,
+                    "growth_from_previous_year_percent": 6.2
+                },
+                "jobs_generated_thousands": 191.5,
+                "taxes_generated_millions": 3200.0,
+                "tourism_total_economic_impact_billions": 8.1
+            }
+        },
+        {
+            "state_name": "Texas",
+            "state_abbreviation": "TX",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 94.8,
+                    "growth_from_previous_year_percent": 3.4
+                },
+                "jobs_generated_thousands": 1300.0,
+                "tourism_total_economic_impact_billions": 193.8
+            }
+        },
+        {
+            "state_name": "Utah",
+            "state_abbreviation": "UT",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 12.7,
+                    "growth_from_previous_year_percent": 1.6
+                },
+                "jobs_generated_thousands": 159.8,
+                "taxes_generated_millions": 2350.0
+            }
+        },
+        {
+            "state_name": "Vermont",
+            "state_abbreviation": "VT",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 3.0,
+                    "growth_from_previous_year_percent": 7.1
+                },
+                "jobs_generated_thousands": 69.4,
+                "taxes_generated_millions": 743.3
+            }
+        },
+        {
+            "state_name": "Virginia",
+            "state_abbreviation": "VA",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 33.3,
+                    "growth_from_previous_year_percent": 9.8
+                },
+                "jobs_generated_thousands": 321.0,
+                "taxes_generated_millions": 3100.0,
+                "tourism_total_economic_impact_billions": 50.6
+            }
+        },
+        {
+            "state_name": "Washington",
+            "state_abbreviation": "WA",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 23.9,
+                    "growth_from_previous_year_percent": 8.1
+                },
+                "jobs_generated_thousands": 230.3,
+                "taxes_generated_millions": 3300.0
+            }
+        },
+        {
+            "state_name": "West Virginia",
+            "state_abbreviation": "WV",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 6.3,
+                    "growth_from_previous_year_percent": 3.2
+                },
+                "jobs_generated_thousands": 60.0,
+                "taxes_generated_millions": 1000.0,
+                "tourism_total_economic_impact_billions": 8.7
+            }
+        },
+        {
+            "state_name": "Wisconsin",
+            "state_abbreviation": "WI",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 15.7,
+                    "growth_from_previous_year_percent": 5.0
+                },
+                "jobs_generated_thousands": 178.0,
+                "taxes_generated_millions": 1600.0,
+                "tourism_total_economic_impact_billions": 25.0
+            }
+        },
+        {
+            "state_name": "Wyoming",
+            "state_abbreviation": "WY",
+            "state_data": {
+                "timeframe": "2023",
+                "visitor_spending": {
+                    "amount_billions": 4.8,
+                    "growth_from_previous_year_percent": 6.5
+                },
+                "jobs_generated_thousands": 0.840,
+                "taxes_generated_millions": 263.0,
+                "percent_gdp": 4.0
+            }
+        }
+    ]
+}
