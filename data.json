@@ -768,7 +768,8 @@
                 }
             }
         },
-        "title": "Data for the Impact of Tourism on Each U.S. State Economy"
+        "title": "Data for the Impact of Tourism on Each U.S. State Economy",
+        "version": 2
     },
     "states_data": [
         {
